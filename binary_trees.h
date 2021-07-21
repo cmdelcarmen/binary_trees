@@ -59,9 +59,4 @@ size_t binary_tree_height(const binary_tree_t *tree);
 /*10-binary_tree_depth.c*/
 size_t binary_tree_depth(const binary_tree_t *tree);
 
-
-
-/*binary_tree_print.c - TO BE DELETED*/
-void binary_tree_print(const binary_tree_t *tree);
-
 #endif
