@@ -7,6 +7,6 @@
 • What are the different traversal methods to go through a binary tree  
 • What is a complete, a full, a perfect, a balanced binary tree  
 
-Source for binary tree function: https://github.com/holbertonschool/0x1C.c.
+Source for binary tree printing function: https://github.com/holbertonschool/0x1C.c.
 
 Written by Caroline Del Carmen for Holberton School. 
